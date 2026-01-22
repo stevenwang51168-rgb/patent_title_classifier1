@@ -1,0 +1,22 @@
+# Virtual environments
+venv/
+venvpat/
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Environment variables
+.env
+
+# Flask runtime files
+instance/
+*.log
+
+# OS files
+.DS_Store
+
+# Editor / IDE settings
+.vscode/
+.idea/
